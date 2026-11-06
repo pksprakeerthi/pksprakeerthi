@@ -60,7 +60,6 @@ A hackathon project exploring concepts involving Hindsight Memory and an Organiz
 
 **What to explore:** problem statement, your individual contribution, design decisions, and project outcomes.
 
-> Add links to each project above only after confirming the exact public repository URL. Do not publish credentials, API keys, private data, or unlicensed assets.
 
 ## Current Learning Focus
 
