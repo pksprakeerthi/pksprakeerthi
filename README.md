@@ -1,128 +1,97 @@
+<h1 align="center">P K S Prakeerthi</h1>
 
-<h1 align="center">Hey there! 👋 I'm Prakeerthi</h1>
-
-<h3 align="center">
-  Computer Science Student | Application Security | AI
-</h3>
+<h3 align="center">Computer Science Undergraduate | Application Security | AI</h3>
 
 <p align="center">
-  Building applications. Understanding how they break.
-  Learning how to secure them.
+  Building applications. Understanding how they break. Learning to engineer them more securely.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pksprakeerthi&label=Profile%20Views&color=blueviolet&style=flat" />
+  <a href="https://github.com/pksprakeerthi">GitHub</a> •
+  <a href="https://www.linkedin.com/in/p-prakeerthi/">LinkedIn</a>
 </p>
 
 ---
 
-## 👩‍💻 About Me
+## About
 
-- 🎓 B.Tech Computer Science Engineering student.
-- 🔐 Interested in Application Security and Cybersecurity.
-- 🤖 Exploring AI-powered applications and AI Security.
-- 💻 Learning Python, Java, SQL and Web Development.
-- 🛡️ Exploring secure coding, vulnerability analysis and web security.
-- 🚀 Working towards becoming an Application Security Engineer.
+I'm a Computer Science undergraduate interested in application security, cybersecurity, and AI-powered software.
 
----
+My current focus is developing practical applications, strengthening my programming foundations, and learning how to identify, explain, and reduce software security risks.
 
-## 🧰 Tech Stack
+- Exploring application, web, and API security
+- Building AI-powered applications
+- Practicing Python, Java, SQL, and web development
+- Learning secure coding, vulnerability analysis, and DevSecOps fundamentals
+- Interested in the intersection of AI and application security
 
-### Programming Languages
+## Technical Skills
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,mysql" />
-</p>
+| Area | Technologies / focus |
+|---|---|
+| Programming | Python, Java, SQL |
+| Web | HTML, CSS |
+| Application development | Streamlit |
+| Databases | MySQL, FalkorDB |
+| Tools | Git, GitHub, VS Code |
+| Security learning | Application security, web security, API security, secure coding |
 
-### Tools & Technologies
+*This list reflects technologies and areas I have worked with or am actively learning; it is not a claim of professional expertise.*
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,streamlit,linux" />
-</p>
+## Selected Projects
 
-### Areas of Interest
+### AI Application Security Risk Investigator
+An AI-assisted project exploring application-security risk investigation and the presentation of security findings. Uses FalkorDB.
 
-- Application Security
-- Web Application Security
-- API Security
-- AI Security
-- Secure Software Development
-- Vulnerability Analysis
-- DevSecOps
+**What to explore:** project architecture, data flow, risk-analysis approach, sample findings, limitations, and remediation guidance.
 
----
+### InfluenceLens AI
+A Streamlit application that analyzes influencer product claims and presents content-credibility insights.
 
-## 🚀 Featured Projects
+**What to explore:** supported claim categories, sample inputs and outputs, analysis workflow, and limitations.
 
-### 1. InfluenceLens AI
+### AI Ollama Full Stack
+An AI chatbot application exploring model-powered interactions and full-stack application development.
 
-An AI-powered application designed to analyze influencer product claims and provide content credibility insights.
+**What to explore:** application workflow, model integration, setup instructions, and deployment details.
 
-### 2. AI Application Security Risk Investigator
+### Pulse — HackwithHyderabad 3.0
+A hackathon project exploring concepts involving Hindsight Memory and an Organizational Twin.
 
-An application security project exploring AI-assisted security risk investigation using FalkorDB.
+**What to explore:** problem statement, your individual contribution, design decisions, and project outcomes.
 
-### 3. Pulse – HackwithHyderabad 3.0
+> Add links to each project above only after confirming the exact public repository URL. Do not publish credentials, API keys, private data, or unlicensed assets.
 
-Explored AI-powered concepts involving Hindsight Memory and Organizational Twin.
+## Current Learning Focus
 
-### 4. AI Ollama Full Stack
+- Application and API security
+- OWASP security concepts
+- Secure coding and vulnerability analysis
+- Python automation
+- AI application security
+- DevSecOps foundations
 
-An AI application exploring chatbot-based interactions and full-stack development.
+## Certifications & Activities
 
----
+- Cisco — Introduction to Cybersecurity
+- HackwithHyderabad 3.0 — project participation
 
-## 📊 GitHub Statistics
+## GitHub Activity
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pksprakeerthi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pksprakeerthi&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pksprakeerthi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
 </p>
-
----
-
-## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=pksprakeerthi&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=pksprakeerthi&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
-
----
-
-## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pksprakeerthi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pksprakeerthi&theme=tokyo-night&hide_border=true" width="100%" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p>
-  <a href="https://github.com/pksprakeerthi">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/p-prakeerthi/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <img src="https://ghchart.rshah.org/7c3aed/pksprakeerthi" width="100%" alt="GitHub contribution chart" />
 </p>
 
 ---
 
 <p align="center">
-  💜 Learning. Building. Breaking. Securing.
-</p>
-
-<p align="center">
-  <i>Every line of code is an opportunity to build something better.</i>
+  Open to learning, collaboration, and meaningful engineering opportunities.
 </p>
