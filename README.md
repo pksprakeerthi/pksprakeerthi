@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey there, I'm Prakeerthi 👋</h1>
+<h1 align="center">Hey there! 👋 I'm Prakeerthi</h1>
 
 <h3 align="center">
   Computer Science Student | Application Security | AI
@@ -22,48 +22,53 @@
 - 🔐 Interested in Application Security and Cybersecurity.
 - 🤖 Exploring AI-powered applications and AI Security.
 - 💻 Learning Python, Java, SQL and Web Development.
-- 🛠️ Building projects that combine AI and security.
+- 🛡️ Exploring secure coding, vulnerability analysis and web security.
 - 🚀 Working towards becoming an Application Security Engineer.
 
 ---
 
 ## 🧰 Tech Stack
 
-**Programming Languages**
+### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,html,css,sql" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,mysql" />
 </p>
 
-**Tools & Technologies**
+### Tools & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,streamlit,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,streamlit,linux" />
 </p>
 
-**Areas of Interest**
+### Areas of Interest
 
 - Application Security
-- Web Security
+- Web Application Security
 - API Security
 - AI Security
 - Secure Software Development
 - Vulnerability Analysis
+- DevSecOps
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 1. InfluenceLens AI
+
 An AI-powered application designed to analyze influencer product claims and provide content credibility insights.
 
 ### 2. AI Application Security Risk Investigator
-An AI-focused application security project exploring security risk investigation using FalkorDB.
+
+An application security project exploring AI-assisted security risk investigation using FalkorDB.
 
 ### 3. Pulse – HackwithHyderabad 3.0
+
 Explored AI-powered concepts involving Hindsight Memory and Organizational Twin.
 
 ### 4. AI Ollama Full Stack
+
 An AI application exploring chatbot-based interactions and full-stack development.
 
 ---
@@ -71,11 +76,32 @@ An AI application exploring chatbot-based interactions and full-stack developmen
 ## 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=pksprakeerthi&show_icons=true&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pksprakeerthi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pksprakeerthi&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+---
+
+## 🔥 Contribution Streak
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pksprakeerthi&layout=compact&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=pksprakeerthi&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pksprakeerthi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pksprakeerthi&theme=tokyo-night&hide_border=true" width="100%" />
 </p>
 
 ---
@@ -83,13 +109,12 @@ An AI application exploring chatbot-based interactions and full-stack developmen
 ## 🌐 Connect With Me
 
 <p>
-<a href="https://github.com/pksprakeerthi">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/p-prakeerthi/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+  <a href="https://github.com/pksprakeerthi">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/p-prakeerthi/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -101,4 +126,3 @@ An AI application exploring chatbot-based interactions and full-stack developmen
 <p align="center">
   <i>Every line of code is an opportunity to build something better.</i>
 </p>
-
